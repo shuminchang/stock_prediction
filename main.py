@@ -11,7 +11,7 @@ TODAY = date.today().strftime("%Y-%m-%d")
 
 st.title("Stock Prediction App")
 
-stocks = ("AAPL", "GOOGL", "MSFT", "GME")
+stocks = ("UPST", "ZIM", "TSLA", "MMM")
 
 # add select box widget in webapp
 # when we interact with select box, it will assign the value back to selected_stocks variable
